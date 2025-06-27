@@ -6,4 +6,4 @@ However, I felt there was more of a focus in pytorch, which I understood after l
 We also learnt on how to setup conda environment with pycharm.
 
 There were also videos providing theoritical understanding of neural networks.
-And there was an [assignment](https://github.com/mukunth-kart/SOC-2025---Face-Aging-Model/blob/main/Week%202/Assignment1.ipynb)
+And there was an [assignment](https://github.com/mukunth-kart/SOC-2025---Face-Aging-Model/blob/main/Week%202/Assignment1.ipynb).
