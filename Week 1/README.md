@@ -1,4 +1,4 @@
-#Week 1
+**Week 1**
 
 Week 1 was more of an introduction to python and a theoritical understanding of deep learning and machine learning.
 It also focused on the introduction of google colab to absolute beginners with no knowledge of colab.
